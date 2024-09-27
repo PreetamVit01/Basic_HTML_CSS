@@ -1,0 +1,18 @@
+div{
+    margin-top: 30px;
+    border: 3px solid;
+    margin-bottom: 50px;
+    height: 30px;
+}
+#div1{
+    overflow: visible;
+}
+#div2{
+    overflow: hidden;
+}
+#div3{
+    overflow: scroll;
+}
+#div4{
+    overflow: auto;
+}

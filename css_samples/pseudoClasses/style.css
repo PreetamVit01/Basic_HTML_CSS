@@ -1,0 +1,36 @@
+a:link{
+    color: rgb(12, 197, 83);
+}
+a:hover{
+    color: blue;
+    font-size: 1.1em;
+}
+a:visited{
+    color: bisque;
+}
+a:active{
+    color:coral;
+    font-size: 1.1em;
+}
+
+
+li:hover{
+    color: aqua;
+}
+li:not(:hover){
+    color: blue;
+}
+li:nth-child(2){
+    background-color: yellow;  
+    display: inline;
+}
+/* 4n,2n+2,3n+1,odd,even etc can be given */
+
+#greeting p{
+    background-color: aqua;
+    padding: 10px;
+    display: none;
+}
+#greeting:hover p{
+    display: block;
+}

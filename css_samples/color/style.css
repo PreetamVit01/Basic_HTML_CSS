@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+
+hr{
+    background-color: aliceblue;
+}
+
+h1{
+    color: turquoise;
+}
+
+p{
+    color: white;
+}
+
+#p1{
+    color: tomato;
+}
+
+#p2{
+    color:antiquewhite;
+}
+
+#p3{
+    color: deeppink;
+}
+
+#p4{
+    color: darkblue;
+}
+
+.odd{
+    color: rosybrown;
+}
+
+.even{
+    color: blue;
+}

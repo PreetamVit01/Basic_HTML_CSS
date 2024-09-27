@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+.box{
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+#box1{
+    background-color: rgb(251, 255, 0);
+    /* margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px; */
+
+    /* all the sides can be done using the below statement */
+    margin: 50px;
+}
+#box2{
+    background-color: rgb(0, 255, 213);
+    /* below statement doesnot depend on the screen size it will always be at the left end  */
+    margin-left: auto;
+}
+#box3{
+    /* keep the box in the center independent of the screen  */
+    margin: auto;
+    background-color: darkorange;
+}
+#box4{
+    margin-left: 50px;
+    background-color: aquamarine;
+}
+#box5{
+    margin-top: 50px;
+    background-color: blue;
+}
+#box6{
+    margin-top: 50px;
+    margin-left: 100px;
+    background-color: cadetblue;
+}

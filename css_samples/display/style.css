@@ -1,0 +1,42 @@
+#div1{
+    background-color: chocolate;
+    height: 100px;
+    width: 100px;
+}
+#span1{
+    background-color: coral;
+}
+#div2{
+    background-color: rgb(62, 172, 28);
+    display: inline;
+}
+#span2{
+    background-color: rgb(242, 11, 150);
+    display: inline;
+}
+#div3{
+    background-color: rgb(62, 172, 28);
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#span3{
+    background-color: rgb(242, 11, 150);
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#div4{
+    background-color: rgb(62, 172, 28);
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    visibility: hidden;
+}
+#span4{
+    background-color: rgb(242, 11, 150);
+    display: none;
+    height: 100px;
+    width: 100px;
+    
+}

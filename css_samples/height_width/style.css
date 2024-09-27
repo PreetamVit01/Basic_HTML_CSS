@@ -1,0 +1,26 @@
+.container{
+    background-color: rgba(27, 180, 180, 0.803);
+    height: 100vh;
+}
+.box{
+    background-color: bisque;
+    border: 2px solid;
+    padding: 25px;
+    height: auto;
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+    min-height: 50%;
+}
+.boxes{
+    border: 2px solid;
+    padding: 25px;
+    text-align: center;
+    height: auto;
+    width: 50%;
+    box-sizing: border-box;
+    float: left;
+
+    max-width: 25%;
+    min-height: 50%;
+}

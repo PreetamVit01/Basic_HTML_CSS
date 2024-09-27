@@ -1,0 +1,15 @@
+@font-face {
+    font-family: Roboto-light;
+    src: url(Roboto-Light.ttf);
+}
+h1{
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-size: 2em; 
+    /* em means %, 1em = 100% */
+}
+p{
+    font-family: Roboto-light, Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
